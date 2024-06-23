@@ -1,0 +1,1 @@
+[Enable basic features in bulk · Cloudflare Fundamentals docs](https://developers.cloudflare.com/fundamentals/basic-tasks/basic-features/)
