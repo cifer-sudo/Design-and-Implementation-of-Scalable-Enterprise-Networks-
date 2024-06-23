@@ -1,0 +1,3 @@
+- All openstack trafic are natted whit the ip of the windows bridge interface 
+- For tha traffic to pass add static route in the windows powershell to force traffic into ASA 
+- Here's the command  `route add 10.150.40.0 mask 255.255.255.0 10.150.30.254` . The command need previge acccess.
