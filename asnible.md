@@ -1,3 +1,4 @@
+```yaml
 # Using deleted
 
 # Before state:
@@ -851,3 +852,5 @@
 #       transmit_delay: 45
 #     name: GigabitEthernet0/1
 #   - name: GigabitEthernet0/0
+```
+
